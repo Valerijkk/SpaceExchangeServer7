@@ -1,0 +1,14 @@
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\bin\Debug\net8.0\SpaceExchangeServer.exe
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\bin\Debug\net8.0\SpaceExchangeServer.deps.json
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\bin\Debug\net8.0\SpaceExchangeServer.runtimeconfig.json
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\bin\Debug\net8.0\SpaceExchangeServer.dll
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\bin\Debug\net8.0\SpaceExchangeServer.pdb
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.AssemblyInfoInputs.cache
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.AssemblyInfo.cs
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.dll
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\refint\SpaceExchangeServer.dll
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.pdb
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\SpaceExchangeServer.genruntimeconfig.cache
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeServer\obj\Debug\net8.0\ref\SpaceExchangeServer.dll

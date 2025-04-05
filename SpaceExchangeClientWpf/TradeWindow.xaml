@@ -1,0 +1,27 @@
+﻿<Window x:Class="SpaceExchangeClientWpf.TradeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Торговля" Height="300" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Ресурс:" VerticalAlignment="Center"/>
+            <TextBox x:Name="TxtResource" Width="100" Margin="5,0,0,0" Text="QuantumOre"/>
+            <TextBlock Text="Количество:" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <TextBox x:Name="TxtAmount" Width="60" Margin="5,0,0,0" Text="10"/>
+        </StackPanel>
+
+        <TextBox x:Name="TxtTradeLog" Grid.Row="1" Margin="0,10,0,10"
+                 IsReadOnly="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+            <Button x:Name="BtnBuy" Content="Купить" Width="80" Margin="5" Click="BtnBuy_Click"/>
+            <Button x:Name="BtnSell" Content="Продать" Width="80" Margin="5" Click="BtnSell_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

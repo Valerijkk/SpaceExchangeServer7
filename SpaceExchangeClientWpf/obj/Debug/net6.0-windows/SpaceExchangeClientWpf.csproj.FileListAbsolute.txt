@@ -1,0 +1,10 @@
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\TradeWindow.baml
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\TradeWindow.g.cs
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf_MarkupCompile.cache
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf.g.resources
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf.AssemblyInfoInputs.cache
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf.AssemblyInfo.cs
+C:\Users\Valerii\RiderProjects\SpaceExchangeSolution\SpaceExchangeSolution\SpaceExchangeClientWpf\obj\Debug\net6.0-windows\SpaceExchangeClientWpf.csproj.CoreCompileInputs.cache
